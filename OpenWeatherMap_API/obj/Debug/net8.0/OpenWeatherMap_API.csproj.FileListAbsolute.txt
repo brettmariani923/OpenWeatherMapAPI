@@ -1,0 +1,17 @@
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\bin\Debug\net8.0\OpenWeatherMap_API.exe
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\bin\Debug\net8.0\OpenWeatherMap_API.deps.json
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\bin\Debug\net8.0\OpenWeatherMap_API.runtimeconfig.json
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\bin\Debug\net8.0\OpenWeatherMap_API.dll
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\bin\Debug\net8.0\OpenWeatherMap_API.pdb
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeatherMap_API.csproj.AssemblyReference.cache
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeatherMap_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeatherMap_API.AssemblyInfoInputs.cache
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeatherMap_API.AssemblyInfo.cs
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeatherMap_API.csproj.CoreCompileInputs.cache
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeat.2B6C34E9.Up2Date
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeatherMap_API.dll
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\refint\OpenWeatherMap_API.dll
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeatherMap_API.pdb
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\OpenWeatherMap_API.genruntimeconfig.cache
+C:\Users\brett\source\repos\OpenWeatherMap_API\OpenWeatherMap_API\obj\Debug\net8.0\ref\OpenWeatherMap_API.dll
