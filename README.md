@@ -13,9 +13,9 @@ This is a simple weather application that retrieves current weather data from th
 🔧 HttpClient Injection and Constructor Setup
 
 We begin by setting up a private field and constructor in our WeatherLink class:
-
-private readonly HttpClient _client;
 ```
+private readonly HttpClient _client;
+
 public WeatherLink(HttpClient client)
 {
     _client = client;
