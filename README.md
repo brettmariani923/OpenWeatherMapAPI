@@ -15,15 +15,15 @@ This is a simple weather application that retrieves current weather data from th
 We begin by setting up a private field and constructor in our WeatherLink class:
 
 private readonly HttpClient _client;
-
+```
 public WeatherLink(HttpClient client)
 {
     _client = client;
 }
+```
+HttpClient is used to send HTTP requests to web APIs.
 
-    HttpClient is used to send HTTP requests to web APIs.
-
-    By injecting it through the constructor, we promote dependency injection, enabling reusability and easier testing.
+By injecting it through the constructor, we promote dependency injection, enabling reusability and easier testing.
 
 🌐 Making the API Call – GetWeatherAsync()
 
